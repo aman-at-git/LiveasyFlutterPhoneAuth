@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "525397572728",
+    "firebase_url": "https://dsc2020notsrm.firebaseio.com",
+    "project_id": "dsc2020notsrm",
+    "storage_bucket": "dsc2020notsrm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525397572728:android:1cda3420e39d42595f818d",
+        "android_client_info": {
+          "package_name": "com.example.liveasy_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525397572728-6s2rio02olq6cpopfvr4l9eh9agr0b6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.liveasy_auth",
+            "certificate_hash": "7902c7f1e0f733aa88f681d4d9d8d9b567a29735"
+          }
+        },
+        {
+          "client_id": "525397572728-dni3dhj8vsetpqhd0al8puhtkhg75gnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD--mFoVxU_v3tL9ycUUJHQBIaFUDLn5ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525397572728-dni3dhj8vsetpqhd0al8puhtkhg75gnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
